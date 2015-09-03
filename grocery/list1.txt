@@ -3,9 +3,5 @@ oranges
 peach
 strawberries
 bananas
-list2.txt
-tomatoes
-celery
-potatoes
-cucumber
-lettuce
+grapes
+melons
