@@ -1,0 +1,4 @@
+beef
+chicken
+pork
+lamb
