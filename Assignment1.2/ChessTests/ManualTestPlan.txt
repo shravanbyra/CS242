@@ -1,0 +1,74 @@
+PAWN:
+
+1. Move white pawn (E2) forward 2
+2. Move black pawn (D7) forward 1
+3. Try to move white pawn (E3) diagonals -- Doesn't allow
+4. Move white pawn (D2) forward 1
+5. Move black pawn (D6) forward 1
+6. Try to move white pawn (D3) to kill other white pawn (E4) -- Doesn't allow
+7. move white pawn (D3) forward 1
+8. Move black pawn (D6) to kill white pawn (ER)
+
+ROOK:
+
+1. Move white pawn (A2) forward 2
+2. Move black pawn (A7) forward 2
+3. Try to move white rook (A1) to kill white pawn (A4) -- Doesn't allow
+4. Try to move white rook (A1) to (A5) jumping white pawn -- Doesn't allow
+4. Move white rook (A1) forward 1
+5. Move black rook (A8) forward 1
+4. Try to move white rook diagonally to (B4) -- Doesn't allow
+5. Move white rook(A3) to (B3)
+6. Move black rook(A6) to (B6)
+7. Move white rook(B3) to (B6) and capture black rook
+
+Knight:
+1. Move white knight (B1) to (A3)
+2. Move black knight (B8) to (C6)
+3. Move white knight (A3) to (B5)
+4. Move black knight (C6) to (D4)
+5. Move white knight (B5) to (D4) and capture black knight
+6. move black pawn forward
+7. Try to move white knight Diagonally 1 -- doesn't allow
+8. Try to move white knight forward 1 -- doesn't allow
+
+Bishop:
+1. Move white bishop (C1) to (D2) to capture white pawn -- doesn't allow
+2. Move white bishop (C1) to (E3) jumping white pawn -- doesn't allow
+3. Move white pawn (G2) forward 2
+4. Move black pawn (D7) forward 2
+5. Move white bishop (F1) to (H3)
+6. Move black bishop (D6) to (H3) capturing white bishop
+
+Queen:
+1. Move white queen left 1 (capture own piece) -- doesn't allow
+2. Move white queen forward 1 (capture own piece) -- doesn't allow
+3. move white queen diagonal 1 (capture own piece) -- doesn't allow
+4. Move white queen forward 2 (jump piece) -- doesn't allow
+5. Move white pawn (D2) forward 2
+6. Move black pawn (D7) forward 2
+7. Move white queen to (C3)
+8. Move black queen to (C6)
+7. Move white queen (c3) to (c6)
+
+King:
+1. Move white king left 1 (capture own piece) -- doesn't allow
+2. Move white king forward 1 (capture own piece) -- doesn't allow
+3. move white king diagonal 1 (capture own piece) -- doesn't allow
+4. Move white pawn (d2) forward 2
+5. Move black pawn (e6) forward 2
+6. Move white king to (d2)
+7. move misc black pawn
+8. move white king to (d2)
+9. move misc black pawn
+10. move white king to (c4) -- doesn't allow (can't put yourself in checkmate)
+
+Moves:
+1. Move white pawn forward 2
+2. Move white pawn forward 1 -- doesn't allow black turn
+
+
+
+
+
+
