@@ -9,7 +9,7 @@ class NetworkController:
         self.network = Network()
 
     def run(self):
-        json_file = 'C:\Users\ShravanB\Documents\College\CS242\CSAir\data\CSAir.json'
+        json_file = './data/CSAir.json'
         self.create_network(json_file)
         self.print_menu()
         while True:
@@ -71,10 +71,10 @@ class NetworkController:
     @param json_file: json file to parse for network
     '''
     def create_network(self, json_file):
-        f = open(json_file, 'r')
-        data = json.loads(f.read())
-        self.network.create_metros(data['metros'])
-        self.network.create_routes(data['routes'])
+        with open(json_file,'r') as f:
+            data = json.loads(f.read())
+            self.network.create_metros(data['metros'])
+            self.network.create_routes(data['routes'])
 
 
 def main():
