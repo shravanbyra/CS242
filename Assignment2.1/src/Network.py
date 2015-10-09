@@ -227,7 +227,6 @@ class Network:
     '''
     save CSAir network in ../data/CSAir_out.json
     '''
-
     def save_network(self):
         data = {'metros': [], 'routes': []}
         for m in self.metros.values():
@@ -418,7 +417,6 @@ class Network:
     @param metro_origin: origin code
     @param metro_destination: destination_code
     '''
-
     def shortest_path(self, metro_origin, metro_destination):
         shortest_path = {}
 

@@ -45,6 +45,7 @@ class NetworkController:
     '''
     print menu for TUI
     '''
+
     @staticmethod
     def print_menu():
         print '\nWELCOME TO CSAIR, PLEASE SELECT A NUMBER' \
@@ -64,6 +65,7 @@ class NetworkController:
     create network from file
     @param json_file: json file to parse for network
     '''
+
     def create_network(self, json_file):
         f = open(json_file, 'r')
         data = json.loads(f.read())
@@ -102,8 +104,7 @@ class NetworkController:
 
     def add_info(self):
         print '\n1: ADD METRO' \
-              '\n2: ADD ROUTE' \
-
+              '\n2: ADD ROUTE'
         i = raw_input('Enter a code: ')
 
         if i == '1':
@@ -121,15 +122,15 @@ class NetworkController:
                 return
 
             data = {
-                    'code': metro_code,
-                    'name': metro_name,
-                    'country': metro_country,
-                    'continent': metro_continent,
-                    'timezone': metro_timezone,
-                    'coordinates': metro_coordinates,
-                    'population': metro_population,
-                    'region': metro_region
-                }
+                'code': metro_code,
+                'name': metro_name,
+                'country': metro_country,
+                'continent': metro_continent,
+                'timezone': metro_timezone,
+                'coordinates': metro_coordinates,
+                'population': metro_population,
+                'region': metro_region
+            }
             self.network.add_metro(data)
             print "Added metro"
         elif i == '2':
@@ -140,8 +141,13 @@ class NetworkController:
             if route_distance < 0:
                 print "invalid distance. Try Again"
                 return
-
             data = {'routes': []}
+            both = raw_input('Would you like to remove both routes? (Y/N)')
+            if both.lower() == 'y':
+                data['routes'].append({
+                    'ports': [metro_destination, metro_origin],
+                    'distance': route_distance
+                })
             data['routes'].append({
                 'ports': [metro_origin, metro_destination],
                 'distance': route_distance
@@ -149,8 +155,7 @@ class NetworkController:
 
     def remove_info(self):
         print '\n1: REMOVE METRO' \
-              '\n2: REMOVE ROUTE' \
-
+              '\n2: REMOVE ROUTE'
         i = raw_input('Enter a menu code: ')
 
         if i == '1':
@@ -178,15 +183,15 @@ class NetworkController:
         metro_continent = raw_input('Continent: ')
 
         data = {
-                    'code': metro_code,
-                    'name': metro_name,
-                    'country': metro_country,
-                    'continent': metro_continent,
-                    'timezone': metro_timezone,
-                    'coordinates': metro_coordinates,
-                    'population': metro_population,
-                    'region': metro_region
-                }
+            'code': metro_code,
+            'name': metro_name,
+            'country': metro_country,
+            'continent': metro_continent,
+            'timezone': metro_timezone,
+            'coordinates': metro_coordinates,
+            'population': metro_population,
+            'region': metro_region
+        }
         self.network.edit_metro(data)
         print "\nMetro has been updated\n"
         print self.network.get_metro_info(metro_code)
@@ -202,7 +207,6 @@ class NetworkController:
                 return
             else:
                 metro_list.append(i)
-
 
 
 def main():
