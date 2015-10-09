@@ -266,7 +266,9 @@ class Network:
                 return None
             connection = False
             for route in metro.routes:
-                if count + 1 < num_metros - 1 and metro_stops[count + 1] == route:
+                if count + 1 == num_metros:
+                    connection = True
+                elif metro_stops[count + 1] == route:
                     connection = True
                     dist.append(metro.routes[route])
                     break
@@ -312,7 +314,7 @@ class Network:
                 total_time += 2.0 * half_time
 
             if i + 2 < len(metro_stops):
-                num_outgoing_flights = len(metro_stops[i + 1].routes)
+                num_outgoing_flights = len(self.metros[metro_stops[i + 1]].routes)
                 total_time += 2 - num_outgoing_flights / 6
 
         return total_time
@@ -329,10 +331,18 @@ class Network:
         total_distance = 0
         for d in distances:
             total_distance += d
-        total_cost = self.get_trip_cost(distances)
+
+        cost = self.get_trip_cost(distances)
+
+        total_cost = 0
+        for c in cost:
+            total_cost += c
+
         total_time = self.get_trip_time(distances, metro_stops)
 
-        return "Total distance: " + total_distance + "\nTotal cost: " + total_cost + "\nTotal time " + total_time
+        return "Total distance: " + str(total_distance) + "\n" \
+               "Total cost: $" + str(total_cost) + "\n" \
+               "Total time " + str(total_time) + " hrs"
 
     '''
     adds metro to CSAir network

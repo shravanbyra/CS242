@@ -160,12 +160,15 @@ class NetworkController:
         elif i == '2':
             origin = raw_input('Enter origin metro code: ')
             dest = raw_input('Enter destination metro code: ')
+            both = raw_input('Would you like to remove both routes? (Y/N)')
+            if both.lower() == 'y':
+                self.network.remove_route(dest, origin)
             self.network.remove_route(origin, dest)
             print "Route removed"
 
     def edit_metro(self):
-        print "Enter -1 if you wish to leave specific part of metro the same"
         metro_code = raw_input('Code: ')
+        print "Enter -1 if you wish to leave specific part of metro the same"
         metro_name = raw_input('Name: ')
         metro_country = raw_input('Country: ')
         metro_timezone = raw_input('Timezone: ')
