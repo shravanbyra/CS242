@@ -1,0 +1,5 @@
+[19-Oct-2015 00:15:08 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/csgotrade/public_html/script/search.php on line 4
+[19-Oct-2015 00:33:46 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/csgotrade/public_html/partials/user-query.php on line 2
+[19-Oct-2015 00:34:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/csgotrade/public_html/partials/user-query.php on line 2
+[19-Oct-2015 00:35:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/csgotrade/public_html/partials/user-query.php on line 2
+[19-Oct-2015 00:35:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'user' (T_STRING) in /home/csgotrade/public_html/partials/user-query.php on line 2

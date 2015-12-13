@@ -1,0 +1,145 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	
+	font-size: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-size: 1em;
+}
+	
+h1 {
+	font-size: 2em;
+}
+
+form {
+	margin: 0;	
+}
+
+li {
+	margin: 0;
+	padding: 0;
+	
+	float: left;
+	list-style: none;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+
+#container {
+	width: 1000px;
+	height: 100%;
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+
+/**
+ * 	Header
+ */
+#header {
+	width: 100%;
+	border-bottom: 2px solid lightGrey;
+	margin-bottom: 15px;
+}
+
+.header-item,
+.user-display {
+	display: inline-block;
+}
+
+#page-title {
+	margin-top: 20px;
+	margin-right: 7px;
+	margin-bottom: 5px;
+}
+
+#sign-up-and-login,
+#current-user {
+	font-family: Helvetica, Arial, sans-serif;
+	float: right;
+	margin-top: 30px;
+	margin-right: 15px;
+}
+
+#page-title a:link,
+#sign-up-and-login a:link {
+	text-decoration: none;
+}
+
+#path {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.25em;
+	color: grey;
+}
+
+#nav-panel {
+	display: none;
+}
+
+#nav-panel div li {
+	display: block;
+}
+
+
+/**
+ * 	Query Results Table
+ */
+#query-results {
+	width: 800px;
+	margin: 0 auto 0;
+	border-collapse: collapse;
+}
+
+#query-results table, th, td {
+	font-family: Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #ddd;
+	text-align: left;
+}
+
+th, td {
+	padding: 5px;
+}
+
+th {
+	font-size: 1em;
+}
+
+td {
+	font-size: 0.9em;
+}
+
+tr.weapon-offer:hover {
+	background-color: #f5f5f5;
+}
+
+
+/**
+ *	Weapon Filter Options
+ */
+#weaponFilterOptions select,
+#weaponFilterOptions input {
+	margin-right: 10px;
+}
+
+.selected {
+	background-color: yellow;
+}
+
+	
