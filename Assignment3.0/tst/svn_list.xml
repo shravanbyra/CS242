@@ -1,0 +1,1449 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa12-cs242/jharri39">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="243">
+<author>jharri39</author>
+<date>2012-08-28T04:31:02.240475Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/libmapreduce.c</name>
+<size>6532</size>
+<commit
+   revision="243">
+<author>jharri39</author>
+<date>2012-08-28T04:31:02.240475Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>421</size>
+<commit
+   revision="2286">
+<author>jharri39</author>
+<date>2012-09-06T01:42:48.729930Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>389</size>
+<commit
+   revision="2116">
+<author>jharri39</author>
+<date>2012-09-05T04:54:20.010198Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="2116">
+<author>jharri39</author>
+<date>2012-09-05T04:54:20.010198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="2116">
+<author>jharri39</author>
+<date>2012-09-05T04:54:20.010198Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/jharri39</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/jharri39/cs242Assignment1</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/AStarSolver.java</name>
+<size>2497</size>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeNode.java</name>
+<size>1415</size>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeSolver.java</name>
+<size>1585</size>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/tst</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/tst/com</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/tst/com/jharri39</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/tst/com/jharri39/cs242Assignment1</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst</name>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst/MazeTests.java</name>
+<size>9809</size>
+<commit
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="3753">
+<author>jharri39</author>
+<date>2012-09-13T20:12:54.576520Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>421</size>
+<commit
+   revision="3552">
+<author>jharri39</author>
+<date>2012-09-13T05:10:24.569277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>389</size>
+<commit
+   revision="3552">
+<author>jharri39</author>
+<date>2012-09-13T05:10:24.569277Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.settings</name>
+<commit
+   revision="3552">
+<author>jharri39</author>
+<date>2012-09-13T05:10:24.569277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="3552">
+<author>jharri39</author>
+<date>2012-09-13T05:10:24.569277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="3647">
+<author>jharri39</author>
+<date>2012-09-13T10:15:28.028835Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/changes to do.txt</name>
+<size>62</size>
+<commit
+   revision="3753">
+<author>jharri39</author>
+<date>2012-09-13T20:12:54.576520Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/cs242</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/cs242/jharri39</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/cs242/jharri39/src</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/AStarSolver.java</name>
+<size>10951</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/DiagonalDistance.java</name>
+<size>2346</size>
+<commit
+   revision="3652">
+<author>jharri39</author>
+<date>2012-09-13T11:13:22.232496Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/DijkstraSolver.java</name>
+<size>492</size>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/EuclideanDistance.java</name>
+<size>995</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/EuclideanSquaredDistance.java</name>
+<size>986</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/Heuristic.java</name>
+<size>674</size>
+<commit
+   revision="3638">
+<author>jharri39</author>
+<date>2012-09-13T09:14:40.525789Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistance.java</name>
+<size>848</size>
+<commit
+   revision="3652">
+<author>jharri39</author>
+<date>2012-09-13T11:13:22.232496Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistanceWithTieBreaker.java</name>
+<size>1162</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/MazeNode.java</name>
+<size>1575</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/cs242/jharri39/src/MazeSolver.java</name>
+<size>1630</size>
+<commit
+   revision="3641">
+<author>jharri39</author>
+<date>2012-09-13T09:43:58.664010Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/tst</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/tst/com</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/tst/com/cs242</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/tst/com/cs242/jharri39</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/tst/com/cs242/jharri39/tst</name>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</name>
+<size>9332</size>
+<commit
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</name>
+<size>4222</size>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/tst/com/cs242/jharri39/tst/HeuristicTests.java</name>
+<size>4362</size>
+<commit
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>509</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>389</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.settings</name>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/cs242</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/cs242/jharri39</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/cs242/jharri39/src</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/AStarSolver.java</name>
+<size>11303</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/DijkstraSolver.java</name>
+<size>750</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/cs242/jharri39/src/IO</name>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/IO/ImageHandler.java</name>
+<size>3863</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/IO/MazeIO.java</name>
+<size>4451</size>
+<commit
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/IO/MazeSettings.java</name>
+<size>287</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/MazeNode.java</name>
+<size>1575</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/MazeSolver.java</name>
+<size>1990</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics</name>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/DiagonalDistance.java</name>
+<size>2400</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/EuclideanDistance.java</name>
+<size>1049</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/EuclideanSquaredDistance.java</name>
+<size>1040</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/Heuristic.java</name>
+<size>728</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/ManhattanDistance.java</name>
+<size>902</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/cs242/jharri39/src/heuristics/ManhattanDistanceWithTieBreaker.java</name>
+<size>1216</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/tst</name>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/tst/com</name>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/tst/com/cs242</name>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/tst/com/cs242/jharri39</name>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst</name>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/AStarSolverTests.java</name>
+<size>9334</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/AllTests.java</name>
+<size>297</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</name>
+<size>4233</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/HeuristicTests.java</name>
+<size>4428</size>
+<commit
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/IOTests.java</name>
+<size>2949</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/tst/com/cs242/jharri39/tst/MockTests.java</name>
+<size>930</size>
+<commit
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.classpath</name>
+<size>509</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.project</name>
+<size>389</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/.settings</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com/cs242</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com/cs242/jharri39</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com/cs242/jharri39/src</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/AStarSolver.java</name>
+<size>11303</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/DijkstraSolver.java</name>
+<size>750</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com/cs242/jharri39/src/IO</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/IO/ImageHandler.java</name>
+<size>3863</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/IO/MazeIO.java</name>
+<size>4451</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/IO/MazeSettings.java</name>
+<size>287</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/MazeNode.java</name>
+<size>1575</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/MazeSolver.java</name>
+<size>1990</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/DiagonalDistance.java</name>
+<size>2400</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/EuclideanDistance.java</name>
+<size>1049</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/EuclideanSquaredDistance.java</name>
+<size>1040</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/Heuristic.java</name>
+<size>728</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/ManhattanDistance.java</name>
+<size>902</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/src/com/cs242/jharri39/src/heuristics/ManhattanDistanceWithTieBreaker.java</name>
+<size>1216</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/tst</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/tst/com</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/tst/com/cs242</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/tst/com/cs242/jharri39</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst</name>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/AStarSolverTests.java</name>
+<size>9334</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/AllTests.java</name>
+<size>297</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</name>
+<size>4233</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/HeuristicTests.java</name>
+<size>4428</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/IOTests.java</name>
+<size>2949</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/tst/com/cs242/jharri39/tst/MockTests.java</name>
+<size>930</size>
+<commit
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>384</size>
+<commit
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.pydevproject</name>
+<size>429</size>
+<commit
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src</name>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/Airport.py</name>
+<size>642</size>
+<commit
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/Parse.py</name>
+<size>1856</size>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/Queries.py</name>
+<size>2716</size>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/Statistics.py</name>
+<size>5521</size>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/UI.py</name>
+<size>4837</size>
+<commit
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/data.txt</name>
+<size>16826</size>
+<commit
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main.py</name>
+<size>121</size>
+<commit
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>384</size>
+<commit
+   revision="7298">
+<author>jharri39</author>
+<date>2012-10-10T00:05:29.572271Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.pydevproject</name>
+<size>429</size>
+<commit
+   revision="7298">
+<author>jharri39</author>
+<date>2012-10-10T00:05:29.572271Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src</name>
+<commit
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Airport.py</name>
+<size>642</size>
+<commit
+   revision="7298">
+<author>jharri39</author>
+<date>2012-10-10T00:05:29.572271Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/ModifyNetwork.py</name>
+<size>1512</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Parse.py</name>
+<size>2978</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Queries.py</name>
+<size>2567</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/RouteCalc.py</name>
+<size>3116</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/ShortestRoute.py</name>
+<size>1520</size>
+<commit
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Statistics.py</name>
+<size>4401</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/UI.py</name>
+<size>8767</size>
+<commit
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/additionalData.txt</name>
+<size>1154</size>
+<commit
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/data.txt</name>
+<size>16826</size>
+<commit
+   revision="7298">
+<author>jharri39</author>
+<date>2012-10-10T00:05:29.572271Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/saveFile.txt</name>
+<size>12144</size>
+<commit
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+</commit>
+</entry>
+</list>
+</lists>

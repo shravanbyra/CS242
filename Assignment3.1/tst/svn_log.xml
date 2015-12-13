@@ -1,0 +1,1123 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7653">
+<author>jharri39</author>
+<date>2012-10-11T19:02:34.418871Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/saveFile.txt</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/ShortestRoute.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Final COmmit for 2.1
+ Working, Missing Shortest Route Calculation and Tests
+ </msg>
+</logentry>
+<logentry
+   revision="7642">
+<author>jharri39</author>
+<date>2012-10-11T18:28:44.089601Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/jharri39/Assignment2.1/src/ModifyNetwork"
+   copyfrom-rev="7631"
+   action="A">/jharri39/Assignment2.1/src/ModifyNetwork.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/RouteCalc.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/additionalData.txt</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment2.1/src/ModifyNetwork</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/Parse.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/Statistics.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/Queries.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Everything in Working state except for the Djistra's Shortest Route and Tests</msg>
+</logentry>
+<logentry
+   revision="7621">
+<author>jharri39</author>
+<date>2012-10-11T16:55:18.575166Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Debugging UI for Network Mod</msg>
+</logentry>
+<logentry
+   revision="7620">
+<author>jharri39</author>
+<date>2012-10-11T16:47:12.670321Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment2.1/src/RouteModification.py</path>
+<path
+   kind="file"
+   copyfrom-path="/jharri39/Assignment2.1/src/RouteModification.py"
+   copyfrom-rev="7538"
+   action="A">/jharri39/Assignment2.1/src/ModifyNetwork</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Some more UI work done</msg>
+</logentry>
+<logentry
+   revision="7538">
+<author>jharri39</author>
+<date>2012-10-11T07:52:18.774875Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/RouteCalc.py</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment2.1/src/main.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/RouteModification.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/Parse.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Most of the work done, still need to implement the UI portion and test. Then I need to implement the Shortest Route feature.</msg>
+</logentry>
+<logentry
+   revision="7298">
+<author>jharri39</author>
+<date>2012-10-10T00:05:29.572271Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/Airport.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/data.txt</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/main.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/.project</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment2.1/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/Parse.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/Statistics.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/Queries.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.1/src/UI.py</path>
+</paths>
+<msg>Initial Commit (Copy of Assignment 2.1)</msg>
+</logentry>
+<logentry
+   revision="7297">
+<author>jharri39</author>
+<date>2012-10-10T00:04:48.336375Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6621">
+<author>jharri39</author>
+<date>2012-10-04T03:06:48.199592Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Parse.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Statistics.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Queries.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/UI.py</path>
+</paths>
+<msg>Final Submission for Assignment 2
+</msg>
+</logentry>
+<logentry
+   revision="6602">
+<author>jharri39</author>
+<date>2012-10-04T00:41:19.467300Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Queries.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/UI.py</path>
+</paths>
+<msg>vbjsg</msg>
+</logentry>
+<logentry
+   revision="6592">
+<author>jharri39</author>
+<date>2012-10-03T23:21:32.945402Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Queries.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/UI.py</path>
+</paths>
+<msg>oubgiusbguoboe</msg>
+</logentry>
+<logentry
+   revision="6583">
+<author>jharri39</author>
+<date>2012-10-03T21:25:51.586619Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Parse.py</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment2.0/src/Statistics.py</path>
+</paths>
+<msg>updates code</msg>
+</logentry>
+<logentry
+   revision="6539">
+<author>jharri39</author>
+<date>2012-10-03T06:01:00.040875Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/Airport.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/data.txt</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/main.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/.project</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment2.0/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/Parse.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/Statistics.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/src/Queries.py</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment2.0/.pydevproject</path>
+</paths>
+<msg>Intitial Commit
+ToDo:
+-Statistics
+-Text UI
+-Graph Method</msg>
+</logentry>
+<logentry
+   revision="6537">
+<author>jharri39</author>
+<date>2012-10-03T05:55:41.853505Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment2.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5922">
+<author>jharri39</author>
+<date>2012-09-27T02:38:48.855223Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/ManhattanDistance.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/.settings</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/EuclideanSquaredDistance.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/.project</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/Heuristic.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/IO/MazeIO.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/.classpath</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com/cs242</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/IOTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/MazeNode.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/MockTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/tst/com</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/IO/MazeSettings.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/EuclideanDistance.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/IO</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/IO/ImageHandler.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/HeuristicTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/src/com</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/tst/com/cs242/jharri39/tst/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/heuristics/ManhattanDistanceWithTieBreaker.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.3/src/com/cs242/jharri39/src/DijkstraSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3/tst</path>
+</paths>
+<msg>Assignment 1.3 initial Commit
+Copy of 1.2</msg>
+</logentry>
+<logentry
+   revision="5899">
+<author>jharri39</author>
+<date>2012-09-27T00:27:43.222661Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4874">
+<author>jharri39</author>
+<date>2012-09-20T09:49:56.186625Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/IO/MazeIO.java</path>
+</paths>
+<msg>removed debug code
+</msg>
+</logentry>
+<logentry
+   revision="4872">
+<author>jharri39</author>
+<date>2012-09-20T09:45:27.204414Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/IO/MazeIO.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/IOTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/MockTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/IO/MazeSettings.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/DijkstraSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/IO</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/IO/ImageHandler.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/MazeSolver.java</path>
+</paths>
+<msg>Working Mockito stuff, working API stuff, WOkring Image IO
+</msg>
+</logentry>
+<logentry
+   revision="4322">
+<author>jharri39</author>
+<date>2012-09-15T23:19:32.811062Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/.settings</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/EuclideanSquaredDistance.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/DiagonalDistance.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/.project</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/Heuristic.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/tst/com</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/EuclideanDistance.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/HeuristicTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/.classpath</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com/cs242</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/tst/com/cs242/jharri39/tst/AllTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/heuristics/ManhattanDistanceWithTieBreaker.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2/tst</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.2/src/com/cs242/jharri39/src/DijkstraSolver.java</path>
+</paths>
+<msg>Initial Commit 
+</msg>
+</logentry>
+<logentry
+   revision="4321">
+<author>jharri39</author>
+<date>2012-09-15T23:16:57.084325Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3753">
+<author>jharri39</author>
+<date>2012-09-13T20:12:54.576520Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/changes to do.txt</path>
+</paths>
+<msg>adding changes to make for next week
+</msg>
+</logentry>
+<logentry
+   revision="3716">
+<author>jharri39</author>
+<date>2012-09-13T18:10:07.786753Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/DijkstraSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/HeuristicTests.java</path>
+</paths>
+<msg>Test files included, missing Dijkstra's Algorithm Implementation
+</msg>
+</logentry>
+<logentry
+   revision="3702">
+<author>jharri39</author>
+<date>2012-09-13T17:17:00.605153Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanSquaredDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/DijkstraSolverTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistanceWithTieBreaker.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/DijkstraSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/HeuristicTests.java</path>
+</paths>
+<msg>Small amount of Dijkstra Implementation done. Finished Heuristic Tests
+</msg>
+</logentry>
+<logentry
+   revision="3652">
+<author>jharri39</author>
+<date>2012-09-13T11:13:22.232496Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanSquaredDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistanceWithTieBreaker.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistance.java</path>
+</paths>
+<msg>Heuristic Functions Implemented</msg>
+</logentry>
+<logentry
+   revision="3647">
+<author>jharri39</author>
+<date>2012-09-13T10:15:28.028835Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>Doxygen documentation added</msg>
+</logentry>
+<logentry
+   revision="3641">
+<author>jharri39</author>
+<date>2012-09-13T09:43:58.664010Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeSolver.java</path>
+</paths>
+<msg>Working AStart with Manhanttan Distance Implementation.
+
+Next: Other Heuristics, Dijkstra's, DOxygen, Test Reformating, More Tests</msg>
+</logentry>
+<logentry
+   revision="3638">
+<author>jharri39</author>
+<date>2012-09-13T09:14:40.525789Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/DiagonalDistance.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanSquaredDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/Heuristic.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistanceWithTieBreaker.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/EuclideanDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/ManhattanDistance.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeSolver.java</path>
+</paths>
+<msg>AStar Solver implemented, Heuristics partially done.</msg>
+</logentry>
+<logentry
+   revision="3552">
+<author>jharri39</author>
+<date>2012-09-13T05:10:24.569277Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/.settings</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.project</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/src/com/cs242</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/src/com</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/src/com/cs242/jharri39/src/AStarSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst</path>
+</paths>
+<msg>Initial Commit of Assignment1.1 (copy of Assignment1.0)</msg>
+</logentry>
+<logentry
+   revision="3551">
+<author>jharri39</author>
+<date>2012-09-13T05:09:39.762803Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1</path>
+</paths>
+<msg>Share project "Assignment1.1" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/jharri39"</msg>
+</logentry>
+<logentry
+   revision="3548">
+<author>jharri39</author>
+<date>2012-09-13T05:05:52.042968Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/jharri39/Assignment1.1</path>
+</paths>
+<msg>Error in the repostory giving me problems with commiting files
+
+</msg>
+</logentry>
+<logentry
+   revision="3547">
+<author>jharri39</author>
+<date>2012-09-13T05:04:51.744784Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/.classpath</path>
+</paths>
+<msg>Finishing adding the files for the svn directory... hopefully
+</msg>
+</logentry>
+<logentry
+   revision="3546">
+<author>jharri39</author>
+<date>2012-09-13T05:01:30.408605Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst/AStarSolverTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/tst/com/cs242/jharri39/tst</path>
+</paths>
+<msg>Adding in all the files for svn</msg>
+</logentry>
+<logentry
+   revision="3533">
+<author>jharri39</author>
+<date>2012-09-13T04:45:34.093845Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.1/.project</path>
+</paths>
+<msg>Initial post of Assignment1.1 to setup SVN
+</msg>
+</logentry>
+<logentry
+   revision="3532">
+<author>jharri39</author>
+<date>2012-09-13T04:43:51.096665Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2566">
+<author>jharri39</author>
+<date>2012-09-06T18:40:47.974915Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/AStarSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeNode.java</path>
+</paths>
+<msg>Assignment1.0 Submission
+</msg>
+</logentry>
+<logentry
+   revision="2528">
+<author>jharri39</author>
+<date>2012-09-06T17:10:45.443558Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/AStarSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeNode.java</path>
+</paths>
+<msg>Switching Computers
+</msg>
+</logentry>
+<logentry
+   revision="2463">
+<author>jharri39</author>
+<date>2012-09-06T08:02:37.765048Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeNode.java</path>
+</paths>
+<msg>Commiting to switch computers.</msg>
+</logentry>
+<logentry
+   revision="2286">
+<author>jharri39</author>
+<date>2012-09-06T01:42:48.729930Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst/MazeTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1/MazeTst</path>
+<path
+   kind="file"
+   copyfrom-path="/jharri39/Assignment1.0/src/MazeSolver.java"
+   copyfrom-rev="2210"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/tst/com/jharri39</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/tst/com</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/tst/com/jharri39/cs242Assignment1</path>
+<path
+   kind="file"
+   copyfrom-path="/jharri39/Assignment1.0/src/MazeNode.java"
+   copyfrom-rev="2210"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/MazeNode.java</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment1.0/src/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/.classpath</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39</path>
+<path
+   kind="file"
+   copyfrom-path="/jharri39/Assignment1.0/src/AStarSolver.java"
+   copyfrom-rev="2240"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc/AStarSolver.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/src/com</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment1.0/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment1.0/src/MazeCreateTests.java</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/tst</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/src/com/jharri39/cs242Assignment1/MazeSrc</path>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment1.0/src/AStarSolver.java</path>
+</paths>
+<msg>Completed my skeleton design for as far as I can see.
+Changed folder setup.</msg>
+</logentry>
+<logentry
+   revision="2240">
+<author>jharri39</author>
+<date>2012-09-05T23:13:40.749106Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment1.0/src/AStarSolver.java</path>
+</paths>
+<msg>More work done on design for the program.</msg>
+</logentry>
+<logentry
+   revision="2116">
+<author>jharri39</author>
+<date>2012-09-05T04:54:20.010198Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/src/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/.project</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/src/MazeCreateTests.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/src/AStarSolver.java</path>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+</paths>
+<msg>Initial Check-In.
+Contains some initial Skeleton framework.</msg>
+</logentry>
+<logentry
+   revision="2114">
+<author>jharri39</author>
+<date>2012-09-05T04:52:43.809961Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment1.0</path>
+</paths>
+<msg>Share project "Assignment1.0" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/jharri39"</msg>
+</logentry>
+<logentry
+   revision="243">
+<author>jharri39</author>
+<date>2012-08-28T04:31:02.240475Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/jharri39/Assignment0/libmapreduce.c</path>
+</paths>
+<msg>fixed formating problem</msg>
+</logentry>
+<logentry
+   revision="226">
+<author>jharri39</author>
+<date>2012-08-28T01:44:23.378996Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment0/libmapreduce.c</path>
+<path
+   kind="dir"
+   action="A">/jharri39/Assignment0</path>
+</paths>
+<msg>correct file system</msg>
+</logentry>
+<logentry
+   revision="224">
+<author>jharri39</author>
+<date>2012-08-28T01:42:34.049179Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/jharri39/Assignment0</path>
+</paths>
+<msg>Removing the wrong file</msg>
+</logentry>
+<logentry
+   revision="218">
+<author>jharri39</author>
+<date>2012-08-28T01:25:17.328246Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/jharri39/Assignment0</path>
+</paths>
+<msg>CS 241 Code for MP7</msg>
+</logentry>
+<logentry
+   revision="75">
+<author>root</author>
+<date>2012-08-23T19:30:23.039895Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/jharri39</path>
+</paths>
+<msg>created directory jharri39</msg>
+</logentry>
+</log>
